@@ -1,0 +1,6 @@
+(Generic)
+Fwutils is concrete class - cant execute
+Basetest is abstract class - cant execute
+Iautoconstant is interface - static finally we can use public static - cant execute
+
+(pages)

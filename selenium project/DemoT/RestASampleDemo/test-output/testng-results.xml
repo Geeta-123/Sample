@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104718" started-at="2020-02-14T12:37:23Z" finished-at="2020-02-14T12:39:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104718" started-at="2020-02-14T12:37:23Z" finished-at="2020-02-14T12:39:08Z">
+      <class name="restassured.AssignmentAuthentication">
+        <test-method status="PASS" signature="getResource()[pri:0, instance:restassured.AssignmentAuthentication@12cc05a]" name="getResource" duration-ms="21016" started-at="2020-02-14T18:07:23Z" finished-at="2020-02-14T18:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResource -->
+        <test-method status="PASS" signature="opengit()[pri:0, instance:restassured.AssignmentAuthentication@12cc05a]" name="opengit" duration-ms="83644" started-at="2020-02-14T18:07:44Z" finished-at="2020-02-14T18:09:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opengit -->
+      </class> <!-- restassured.AssignmentAuthentication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

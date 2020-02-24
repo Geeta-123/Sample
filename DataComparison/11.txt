@@ -1,0 +1,18 @@
+maven project
+--create a simple project--
+GI-
+AT-
+version
+
+go to pom.xml
+add dpendencies
+go to maven repository
+selenium stand alone==3.141.59
+testng==7.1.0
+(
+<build>
+<plugins>
+<plugin>
+surefire plugin==3.0.0
+<configuration>
+<suite>Testng.xml</suite>
